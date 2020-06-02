@@ -18,3 +18,6 @@ Notes and logs.
 [Gitea & Gogs Rce 总结](https://github.com/muzai/Clog/tree/master/vuls/ovuls/GiteaAndGogsRce.md)
 
 [cve-2020-10199/10204事件调查](https://github.com/muzai/Clog/blob/master/vuls/ovuls/SonatypeNexusRce.md)
+
+
+[xxe 探索](https://github.com/muzai/Clog/blob/master/vuls/ovuls/XxePractice.md)
