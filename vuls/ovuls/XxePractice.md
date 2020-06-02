@@ -109,7 +109,8 @@ $str1 = mb_convert_encoding($str, "UTF-7");
 
 * golang
 golang本身自带的xml库不解析DTD，参考
-https://stackoverflow.com/questions/28107960/how-can-i-force-gos-standard-xml-parser-to-read-dtd-entities
+https://stackoverflow.com/questions/28107960/how-can-i-force-gos-standard-xml-parser-to-read-dtd-entities  
+
 解析库：tealeg/xlsx  
 360EntSecGroup-Skylar/excelize
 
