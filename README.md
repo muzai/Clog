@@ -14,10 +14,11 @@ Notes and logs.
 ## 我的漏洞
 [对apk在线处理功能的攻击](https://github.com/muzai/Clog/tree/master/vuls/mvuls/AttackOnlineApkProcess.md)
 
+[溯光（TrackRay）3.2.1 未授权RCE](https://github.com/muzai/Clog/blob/master/vuls/mvuls/TrackRayUnauthedRce.md)
+
 ## 大哥的漏洞
 [Gitea & Gogs Rce 总结](https://github.com/muzai/Clog/tree/master/vuls/ovuls/GiteaAndGogsRce.md)
 
 [cve-2020-10199/10204事件调查](https://github.com/muzai/Clog/blob/master/vuls/ovuls/SonatypeNexusRce.md)
-
 
 [xxe 探索](https://github.com/muzai/Clog/blob/master/vuls/ovuls/XxePractice.md)
