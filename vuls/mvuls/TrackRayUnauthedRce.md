@@ -27,7 +27,8 @@ python3 -m websockets ws://[ip]:[port]/msf.ws
 ```
 
 ## Poc
-由于我的msfrpcd始终没有配置成功，这里就懒得折腾，演示一个利用 plugin console 实现未授权ssrf的效果，rce也是一样，不过连的是 msf console：
+由于我的msfrpcd始终没有配置成功，这里就懒得折腾，演示一个利用 plugin console 实现未授权ssrf的效果，rce也是一样，不过连的是 msf console。  
+
 连接 plugin consle
 ![-w1120](media/15909787372321/15911181426135.jpg)
 
