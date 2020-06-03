@@ -1,7 +1,8 @@
 # 溯光（TrackRay）3.2.1 未授权RCE
 
 ## Target & Version
-项目地址：https://github.com/iSafeBlue/TrackRay
+项目地址：https://github.com/iSafeBlue/TrackRay  
+
 版本：v3.2.1
 
 ## Background
