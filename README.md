@@ -22,3 +22,6 @@ Notes and logs.
 [cve-2020-10199/10204事件调查](https://github.com/muzai/Clog/blob/master/vuls/ovuls/SonatypeNexusRce.md)
 
 [xxe 探索](https://github.com/muzai/Clog/blob/master/vuls/ovuls/XxePractice.md)
+
+## java 安全
+[java 反序列化 gadgets 学习](https://github.com/muzai/Clog/blob/master/java-security/java-deserialization-gadgets-learning.md)
