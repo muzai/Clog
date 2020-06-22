@@ -25,3 +25,5 @@ Notes and logs.
 
 ## java 安全
 [java 反序列化 gadgets 学习](https://github.com/muzai/Clog/blob/master/java-security/java-deserialization-gadgets-learning.md)
+
+[java 反序列化相关 paper](https://github.com/muzai/Clog/blob/master/java-security/java-deserialization-papers.md)
