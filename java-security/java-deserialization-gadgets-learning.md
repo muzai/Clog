@@ -345,7 +345,7 @@ public static void testAnnotationInvocationHandlerPayload() throws Exception {
 测试成功，并且可以看到我这里用的String类型进行反序列化声明。考虑到实际使用情况，任何类型都有可能，但是不影响结果。
 
 ## 参考
-[[1] Creating a Chain of Transformations](https://www.oreilly.com/library/view/jakarta-commons-cookbook/059600706X/ch04s12.html)
-[[2] AnnotationInvocationHandler 源码](https://raw.githubusercontent.com/openjdk-mirror/jdk7u-jdk/master/src/share/classes/sun/reflect/annotation/AnnotationInvocationHandler.java)
-[[3] frohoff/ysoserial 项目](https://github.com/frohoff/ysoserial)
+[[1] Creating a Chain of Transformations](https://www.oreilly.com/library/view/jakarta-commons-cookbook/059600706X/ch04s12.html)  
+[[2] AnnotationInvocationHandler 源码](https://raw.githubusercontent.com/openjdk-mirror/jdk7u-jdk/master/src/share/classes/sun/reflect/annotation/AnnotationInvocationHandler.java)  
+[[3] frohoff/ysoserial 项目](https://github.com/frohoff/ysoserial)  
 [[4] setAccessible 定义](https://docs.oracle.com/javase/8/docs/api/java/lang/reflect/AccessibleObject.html#setAccessible-boolean-)
