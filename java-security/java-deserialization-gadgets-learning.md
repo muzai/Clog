@@ -1,4 +1,4 @@
-# java 反序列化 gadgets 学习
+# java 反序列化 gadgets 学习（CommonsCollections1）
 
 ## 简介
 在很长一段时间内，我对 java 反序列化 gadgets 一直处于一知半解状态。反序列化很好理解，但是什么是 gadgets ，这和内存 exploit 中的 PoP2Ret那种 gadgets 有什么关系?
